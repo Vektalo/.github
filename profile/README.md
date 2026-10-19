@@ -21,7 +21,7 @@ that work and turn company standards into one-click steps.
 
 ### Follow us
 
-[vektalo.com](https://vektalo.com) · [LinkedIn](https://www.linkedin.com/company/solutions-vektalo/) · [YouTube](https://www.youtube.com/@Vektalo) · [Instagram](https://www.instagram.com/vektalo/) · [Facebook](https://www.facebook.com/profile.php?id=61595668224809) · [TikTok](https://www.tiktok.com/@vektalo.cad) · contact@vektalo.com
+[vektalo.com](https://vektalo.com) · [LinkedIn](https://www.linkedin.com/company/solutions-vektalo/) · [YouTube](https://www.youtube.com/@Vektalo) · [Instagram](https://www.instagram.com/vektalo/) · [Facebook](https://www.facebook.com/vektalo) · [TikTok](https://www.tiktok.com/@vektalo.cad) · contact@vektalo.com
 
 <sub>VEKTALO™ is a trademark of Solutions Vektalo. Autodesk, Inventor and Vault are registered trademarks of
 Autodesk, Inc. SOLIDWORKS is a registered trademark of Dassault Systèmes.</sub>
